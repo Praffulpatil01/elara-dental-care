@@ -942,6 +942,7 @@ ul, ol {
   height: auto;
   aspect-ratio: 3 / 4;
   object-fit: cover;
+  object-position: top center;
   display: block;
   transition: transform 0.4s ease;
 }
