@@ -168,7 +168,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // 3. Treatment Category Filtering
   // -------------------------------------------------------------------------
   const filterBtns = document.querySelectorAll('.filter-btn');
-  const treatmentCards = document.querySelectorAll('.treatment-card');
+  const treatmentCards = document.querySelectorAll('.treatment-row, .treatment-card');
 
   filterBtns.forEach(btn => {
     btn.addEventListener('click', () => {
@@ -297,7 +297,7 @@ document.addEventListener('DOMContentLoaded', () => {
   document.querySelectorAll('.treatment-enquire-btn').forEach(btn => {
     btn.addEventListener('click', (e) => {
       e.preventDefault();
-      const card = btn.closest('.treatment-card');
+      const card = btn.closest('.treatment-row, .treatment-card');
       const titleElem = card ? card.querySelector('.treatment-title') : null;
       const treatmentName = titleElem ? titleElem.textContent.trim() : '';
       selectTreatmentAndScroll(treatmentName);
