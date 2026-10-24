@@ -367,6 +367,20 @@ ul, ol {
   color: var(--color-accent);
 }
 
+.clinic-status-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  background: rgba(42, 123, 85, 0.3);
+  color: #FAF8F2;
+  border: 1px solid rgba(42, 123, 85, 0.6);
+  padding: 0.2rem 0.65rem;
+  border-radius: var(--radius-full);
+  font-size: 0.72rem;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+}
+
 .demo-pill {
   display: inline-block;
   background: rgba(184, 154, 98, 0.2);
@@ -1327,7 +1341,7 @@ ul, ol {
   font-weight: 600;
 }
 
-.review-demo-label {
+.review-badge {
   color: var(--color-secondary);
   font-size: 0.725rem;
 }

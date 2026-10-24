@@ -441,7 +441,7 @@ document.addEventListener('DOMContentLoaded', () => {
       // Validate Consent Checkbox
       const consentCheck = document.getElementById('consent');
       if (!consentCheck.checked) {
-        setFieldError('consent', 'Please check the box acknowledging this is a website design demo.');
+        setFieldError('consent', 'Please check the box to confirm your appointment request.');
         hasError = true;
       } else {
         clearFieldError('consent');
@@ -461,7 +461,7 @@ document.addEventListener('DOMContentLoaded', () => {
         <svg style="animation: spin 1s linear infinite; display: inline-block; vertical-align: middle; margin-right: 6px;" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
           <circle cx="12" cy="12" r="10" stroke-opacity="0.25"/>
           <path d="M12 2 A10 10 0 0 1 22 12" stroke-linecap="round"/>
-        </svg> Validating Demo Enquiry...
+        </svg> Submitting Request...
       `;
 
       setTimeout(() => {
