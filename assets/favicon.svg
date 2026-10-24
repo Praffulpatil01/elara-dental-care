@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="elaraGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#244B40"/>
+      <stop offset="100%" stop-color="#19362E"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#B89A62"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#elaraGrad)"/>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="none" stroke="#B89A62" stroke-width="1.5" stroke-opacity="0.5"/>
+  <!-- Stylized Tooth & Gentle Leaf Harmony -->
+  <path d="M32 14 C23 14 18 19 18 27 C18 35 22 43 26 50 C28 53.5 31 53 32 46 C33 53 36 53.5 38 50 C42 43 46 35 46 27 C46 19 41 14 32 14 Z" fill="#FAF8F2"/>
+  <!-- Gentle Inner Smile Arc in Gold -->
+  <path d="M25 30 Q32 37 39 30" fill="none" stroke="url(#goldGrad)" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Radiant spark top right -->
+  <path d="M42 16 L43.5 19 L46.5 20.5 L43.5 22 L42 25 L40.5 22 L37.5 20.5 L40.5 19 Z" fill="url(#goldGrad)"/>
+</svg>

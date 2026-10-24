@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none" stroke="#244B40" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Radiant tooth -->
+  <path d="M24 10 C17 10 13 14 13 21 C13 27 17 33 19 38 C21 41 23 39 24 35 C25 39 27 41 29 38 C31 33 35 27 35 21 C35 14 31 10 24 10 Z" fill="rgba(255, 255, 255, 0.8)"/>
+  <!-- Radiating light rays -->
+  <line x1="24" y1="4" x2="24" y2="7" stroke="#B89A62" stroke-width="2.5"/>
+  <line x1="36" y1="8" x2="33" y2="10" stroke="#B89A62" stroke-width="2"/>
+  <line x1="12" y1="8" x2="15" y2="10" stroke="#B89A62" stroke-width="2"/>
+  <line x1="42" y1="20" x2="38" y2="20" stroke="#B89A62" stroke-width="2"/>
+  <line x1="6" y1="20" x2="10" y2="20" stroke="#B89A62" stroke-width="2"/>
+  <!-- Central gleam -->
+  <path d="M20 18 L21 21 L24 22 L21 23 L20 26 L19 23 L16 22 L19 21 Z" fill="#B89A62" stroke="none"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none" stroke="#244B40" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M24 8 C16 8 12 13 12 21 C12 28 16 35 19 40 C21 43 23 41 24 36 C25 41 27 43 29 40 C32 35 36 28 36 21 C36 13 32 8 24 8 Z"/>
+  <!-- Sparkles -->
+  <path d="M38 10 L39.5 13 L42.5 14.5 L39.5 16 L38 19 L36.5 16 L33.5 14.5 L36.5 13 Z" fill="#B89A62" stroke="none"/>
+  <path d="M10 28 L11 30 L13 31 L11 32 L10 34 L9 32 L7 31 L9 30 Z" fill="#B89A62" stroke="none"/>
+  <path d="M18 22 Q24 27 30 22" stroke="#78917D" stroke-width="2"/>
+</svg>

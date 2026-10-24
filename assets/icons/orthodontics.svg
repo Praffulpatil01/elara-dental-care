@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none" stroke="#244B40" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Smile arc with brackets -->
+  <path d="M8 24 Q24 38 40 24" stroke="#78917D" stroke-width="2.5"/>
+  <rect x="12" y="23" width="6" height="6" rx="1.5" fill="#B89A62" stroke="#244B40" stroke-width="1.5"/>
+  <rect x="21" y="27" width="6" height="6" rx="1.5" fill="#B89A62" stroke="#244B40" stroke-width="1.5"/>
+  <rect x="30" y="23" width="6" height="6" rx="1.5" fill="#B89A62" stroke="#244B40" stroke-width="1.5"/>
+  <!-- Alignment arrow indicators -->
+  <path d="M6 14 L14 14 M14 14 L11 11 M14 14 L11 17" stroke="#244B40" stroke-width="2"/>
+  <path d="M42 14 L34 14 M34 14 L37 11 M34 14 L37 17" stroke="#244B40" stroke-width="2"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none" stroke="#244B40" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Aesthetic smile silhouette -->
+  <path d="M10 20 C14 30 34 30 38 20" stroke="#244B40" stroke-width="2.8"/>
+  <path d="M14 21 C17 26 31 26 34 21" fill="none" stroke="#B89A62" stroke-width="2"/>
+  <!-- Veneer / perfection sparkles -->
+  <path d="M24 7 L25.5 10 L28.5 11.5 L25.5 13 L24 16 L22.5 13 L19.5 11.5 L22.5 10 Z" fill="#B89A62" stroke="none"/>
+  <circle cx="12" cy="15" r="2" fill="#78917D" stroke="none"/>
+  <circle cx="36" cy="15" r="2" fill="#78917D" stroke="none"/>
+</svg>
